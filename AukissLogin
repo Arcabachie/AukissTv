@@ -1,4 +1,4 @@
-package com.example.aukisstv
+package com.aukisstv
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
